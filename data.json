@@ -1,0 +1,90 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_Arabica Gayo.jpeg",
+            "nama": "Arabica Gayo",
+            "size": "200 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=gayo+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Arabica Toraja.jpeg",
+            "nama": "Arabica Toraja",
+            "size": "200 Gram",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabicaflores.jpeg",
+            "nama": "Arabica Flores",
+            "size": "200 Gram",
+            "harga": "84.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabicapapua.jpeg",
+            "nama": "Arabica Wamena",
+            "size": "200 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_Lanang Robusta.jpg",
+            "nama": "Lanang",
+            "size": "200 Gram",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Luwak Robusta Lintong",
+            "size": "200 Gram",
+            "harga": "75.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Luwak Robusta",
+            "size": "200 Gram",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Robusta Gayo",
+            "size": "200 Gram",
+            "harga": "65.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Robusta Kintamani",
+            "size": "200 Gram",
+            "harga": "85.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Robusta Lampung (Fine)",
+            "size": "200 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Robusta Sidikalang (Natural)",
+            "size": "200 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Robusta Sidikalang",
+            "size": "200 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
